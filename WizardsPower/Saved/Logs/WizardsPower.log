@@ -880,3 +880,318 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-15.59.37:915][  0]LogAssetRegistry: Asset discovery search completed in 28.7246 seconds
 [2020.06.10-15.59.37:920][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
 [2020.06.10-15.59.38:026][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.10-16.03.00:238][155]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2020.06.10-16.03.18:471][102]LogSlate: Took 0.016204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.10-16.03.33:907][692]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.06.10-16.03.48:478][978]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.06.10-16.05.23:131][659]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.06.10-16.06.23:626][758]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-16.06.23:630][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.06.23:630][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-16.06.23:631][758]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (10 jun. 2020 20:06:23)
+[2020.06.10-16.06.23:631][758]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.10-16.06.23:632][758]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.06.10-16.06.23:632][758]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.06.23:644][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011475s)
+[2020.06.10-16.06.23:645][758]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.10-16.06.23:645][758]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2020.06.10-16.06.23:645][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012689s)
+[2020.06.10-16.06.23:668][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.06.10-16.06.23:670][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.10-16.06.23:671][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.10-16.06.23:671][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.10-16.06.23:671][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.10-16.06.23:671][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.10-16.06.23:671][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.10-16.06.23:671][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.10-16.06.23:671][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.10-16.06.23:671][758]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.10-16.06.23:671][758]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: Channel Order:
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-16.06.23:701][758]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-16.06.23:713][758]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.06.23:715][758]LogInit: FAudioDevice initialized.
+[2020.06.10-16.06.23:729][758]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.10-16.06.23:731][758]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.10-18.06.23
+[2020.06.10-16.06.23:731][758]LogWorld: Bringing up level for play took: 0.001260
+[2020.06.10-16.06.23:731][758]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.06.10-16.06.23:734][758]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.06.10-16.06.23:734][758]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,523
+[2020.06.10-16.06.23:734][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.07.05:325][741]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.07.05:325][741]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.07.05:325][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.07.05:326][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.07.05:326][741]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.07.05:326][741]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.07.05:326][741]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.07.05:326][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.07.05:334][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-16.07.05:334][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.07.05:336][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.07.05:356][741]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.07.05:361][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.07.05:363][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.06.10-16.07.05:426][746]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.06.10-16.07.10:221][301]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.06.10-16.07.27:101][200]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-16.07.27:105][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.07.27:105][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-16.07.27:105][200]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (10 jun. 2020 20:07:27)
+[2020.06.10-16.07.27:105][200]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.07.27:114][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008890s)
+[2020.06.10-16.07.27:115][200]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.10-16.07.27:115][200]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2020.06.10-16.07.27:115][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009883s)
+[2020.06.10-16.07.27:135][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.06.10-16.07.27:136][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.10-16.07.27:136][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.10-16.07.27:136][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.10-16.07.27:136][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.10-16.07.27:136][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.10-16.07.27:136][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.10-16.07.27:136][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.10-16.07.27:136][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.10-16.07.27:136][200]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.10-16.07.27:136][200]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: Channel Order:
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-16.07.27:163][200]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-16.07.27:173][200]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.07.27:175][200]LogInit: FAudioDevice initialized.
+[2020.06.10-16.07.27:182][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.10-16.07.27:184][200]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.10-18.07.27
+[2020.06.10-16.07.27:184][200]LogWorld: Bringing up level for play took: 0.001212
+[2020.06.10-16.07.27:184][200]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.06.10-16.07.27:186][200]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,026
+[2020.06.10-16.07.27:186][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.07.37:825][470]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.07.37:825][470]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.07.37:825][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.07.37:825][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.07.37:826][470]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.07.37:826][470]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.07.37:826][470]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.07.37:826][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.07.37:832][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-16.07.37:833][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.07.37:835][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.07.37:854][470]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.07.37:856][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.07.37:859][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.06.10-16.07.37:925][476]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.06.10-16.07.42:302][998]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.06.10-16.07.58:230][768]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-16.07.58:234][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.07.58:234][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-16.07.58:234][768]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (10 jun. 2020 20:07:58)
+[2020.06.10-16.07.58:234][768]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.07.58:243][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008951s)
+[2020.06.10-16.07.58:244][768]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.10-16.07.58:244][768]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2020.06.10-16.07.58:244][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009898s)
+[2020.06.10-16.07.58:267][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.06.10-16.07.58:268][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.10-16.07.58:268][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.10-16.07.58:268][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.10-16.07.58:268][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.10-16.07.58:268][768]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.10-16.07.58:268][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.10-16.07.58:268][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.10-16.07.58:268][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.10-16.07.58:269][768]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.10-16.07.58:269][768]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: Channel Order:
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-16.07.58:298][768]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-16.07.58:308][768]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.07.58:309][768]LogInit: FAudioDevice initialized.
+[2020.06.10-16.07.58:316][768]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.10-16.07.58:318][768]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.10-18.07.58
+[2020.06.10-16.07.58:318][768]LogWorld: Bringing up level for play took: 0.001040
+[2020.06.10-16.07.58:318][768]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.06.10-16.07.58:320][768]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,892
+[2020.06.10-16.07.58:320][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.08.43:889][228]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.08.43:889][228]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.08.43:889][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.08.43:890][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.08.43:890][228]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.08.43:890][228]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.08.43:890][228]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.08.43:890][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.08.43:898][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-16.08.43:898][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.08.43:902][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.08.43:920][228]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.08.43:923][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.08.43:926][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.06.10-16.08.43:990][234]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.06.10-16.08.51:685][882]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.10-16.08.51:730][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.06.10-16.08.51:863][882]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMapED04B712453ABE1F70B98E8871509043.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.10-16.08.52:017][882]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap_BuiltData6BB95F05486E2BB8ED4D7494157BCA94.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.10-16.08.52:030][882]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.10-16.08.52:030][882]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.10-16.08.52:030][882]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.10-16.08.52:864][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.06.10-16.08.52:974][977]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap55715B6946AF4A87CE4114B174AEB32C.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.10-16.08.53:086][977]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap_BuiltDataF07D0E474102A89D082A29AA0A2581CF.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.10-16.08.53:100][977]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.10-16.08.53:100][977]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.10-16.08.53:100][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.10-16.10.50:054][779]MapCheck: New page: Revisión del mapa
+[2020.06.10-16.10.50:067][779]LightingResults: New page: Diseño de la iluminación - 10 jun. 2020 20:10:50
+[2020.06.10-16.10.50:185][779]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.06.10-16.10.51:087][779]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.06.10-16.10.51:101][779]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.06.10-16.10.52:626][779]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.06.10-16.10.52:626][779]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11976
+[2020.06.10-16.10.59:544][779]LogStaticLightingSystem: Warning: Failed to build lighting!!! Diseño de la iluminación cancelado.
+[2020.06.10-16.11.00:567][779]LogEditorBuildUtils: Build time 0:10
+[2020.06.10-16.11.41:853][302]MapCheck: New page: Revisión del mapa
+[2020.06.10-16.11.41:870][302]LightingResults: New page: Diseño de la iluminación - 10 jun. 2020 20:11:41
+[2020.06.10-16.11.41:877][302]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.06.10-16.11.41:880][302]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.06.10-16.11.41:880][302]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.06.10-16.11.41:881][302]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.06.10-16.11.41:881][302]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11976
+[2020.06.10-16.11.46:469][302]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.06.10-16.11.46:469][302]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.06.10-16.11.46:469][302]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.06.10-16.11.46:469][302]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.06.10-16.11.46:469][302]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.06.10-16.11.46:639][302]LogEditorBuildUtils: Build time 0:04
+[2020.06.10-16.11.46:649][302]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.06.10-16.11.46:666][302]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.06.10-16.11.46:694][302]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.06.10-16.11.46:694][302]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.10-16.11.46:706][303]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.06.10-16.11.46:719][303]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.06.10-16.11.46:761][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.06.10-16.11.46:761][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.06.10-16.11.46:793][304]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.06.10-16.11.46:807][304]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.06.10-16.11.46:868][305]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.06.10-16.11.46:897][305]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.06.10-16.11.49:693][306]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.06.10-16.11.49:693][306]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.10-16.11.49:693][306]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.06.10-16.11.49:693][306]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.10-16.11.49:693][306]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.10-16.11.49:836][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.06.10-16.11.55:577][712]Job is a success!
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport:      Bricks at depth
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport:          0: 5.6% covering 100.0% of volume
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport:          1: 22.2% covering 6.3% of volume
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport:          2: 72.2% covering 0.3% of volume
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport:      Bricks in each level
+[2020.06.10-16.11.55:752][713]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 18 bricks 	 100.0% (Persistent Level)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.06.10-16.11.56:184][713]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.06.10-16.11.56:319][713]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.06.10-16.11.56:319][713]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2020.06.10-16.11.56:319][713]Lightmass on DESKTOP-D4FG9F9: 3.89 sec total, 129 ms importing, 235 ms setup, 645 ms photons, 2.84 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 19.9 sec total, 5.04 sec processing.
+[2020.06.10-16.11.56:319][713]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 4 LightmapResourceClusters (3.0 Meshes per cluster).
+[2020.06.10-16.11.56:345][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.06.10-16.11.56:377][713]LogStaticLightingSystem: Illumination: 14.4 sec (433 ms encoding lightmaps, 86 ms encoding shadowmaps)
+[2020.06.10-16.11.56:377][713]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.06.10-16.11.56:377][713]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.06.10-16.11.56:378][713]DumpUnbuiltLightIteractions
+[2020.06.10-16.11.56:378][713]Lights with unbuilt interactions: 0
+[2020.06.10-16.11.56:378][713]
+[2020.06.10-16.11.56:378][713]Primitives with unbuilt interactions: 0
+[2020.06.10-16.11.56:487][714]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.06.10-16.11.56:487][714]MapCheck: New page: ThirdPersonExampleMap - 10 jun. 2020 20:11:56
+[2020.06.10-16.11.56:512][714]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 25,22ms to complete.
+[2020.06.10-16.12.00:510][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-16.12.00:514][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.12.00:514][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-16.12.00:515][ 75]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (10 jun. 2020 20:12:00)
+[2020.06.10-16.12.00:515][ 75]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.12.00:525][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010736s)
+[2020.06.10-16.12.00:527][ 75]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.10-16.12.00:527][ 75]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2020.06.10-16.12.00:527][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012394s)
+[2020.06.10-16.12.00:547][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.06.10-16.12.00:548][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.10-16.12.00:548][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.10-16.12.00:548][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.10-16.12.00:548][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.10-16.12.00:548][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.10-16.12.00:548][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.10-16.12.00:548][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.10-16.12.00:548][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.10-16.12.00:548][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.10-16.12.00:548][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: Channel Order:
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-16.12.00:577][ 75]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-16.12.00:588][ 75]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.12.00:590][ 75]LogInit: FAudioDevice initialized.
+[2020.06.10-16.12.00:598][ 75]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.10-16.12.00:599][ 75]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.10-18.12.00
+[2020.06.10-16.12.00:600][ 75]LogWorld: Bringing up level for play took: 0.001298
+[2020.06.10-16.12.00:600][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.06.10-16.12.00:601][ 75]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,61
+[2020.06.10-16.12.00:602][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.12.30:126][609]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.12.30:134][609]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.10-16.12.30:154][609]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.10-16.12.30:154][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.12.30:154][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.12.30:154][609]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.12.30:154][609]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.12.30:154][609]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.12.30:154][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.12.30:163][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-16.12.30:163][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.12.30:165][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.12.30:184][609]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.12.30:187][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.12.30:189][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.06.10-16.12.30:231][612]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.06.10-16.12.33:747][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.06.10-16.12.33:796][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.10-16.12.33:908][970]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap0D7D8FD544ECEF01E06CA3BF7ED3631A.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.10-16.12.33:918][970]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.142
+[2020.06.10-16.12.34:014][970]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap_BuiltData47458237420F758CC0BE00ACCF70B5B1.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.10-16.12.34:036][970]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.10-16.12.34:036][970]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.10-16.12.34:036][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.10-16.12.39:169][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
