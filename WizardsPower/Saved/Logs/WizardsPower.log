@@ -1195,3 +1195,861 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-16.12.34:036][970]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.06.10-16.12.34:036][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.06.10-16.12.39:169][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.06.10-16.15.36:016][236]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.06.10-16.24.53:687][202]Cmd: DELETE
+[2020.06.10-16.24.53:687][202]Cmd: ACTOR DELETE
+[2020.06.10-16.24.53:689][202]LogEditorActor: Deleted Actor: Actor
+[2020.06.10-16.24.53:710][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.06.10-16.24.53:711][202]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.06.10-16.25.17:827][288]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_Actor /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.25.30:467][421]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.25.30:483][421]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.25.37:225][968]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_Actor /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.26.23:334][196]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.26.23:350][196]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.26.45:966][686]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_Actor /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.26.47:830][848]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.26.47:845][848]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.27.09:284][949]LogVSAccessor: Warning: Couldn't set focus on Visual Studio.
+[2020.06.10-16.27.09:284][949]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.06.10-16.27.09:290][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:290][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:290][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:290][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:290][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:290][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:290][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:291][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:292][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:292][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:292][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:292][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:292][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:292][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:292][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:292][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:293][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:294][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:295][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:296][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:297][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:298][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:299][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:299][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:299][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:299][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:299][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:303][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:305][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:305][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:307][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:308][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:322][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:342][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:343][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:343][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:343][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:343][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:345][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:346][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:348][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:348][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:353][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:354][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:356][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:357][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:358][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:360][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:360][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:360][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:361][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:369][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:431][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:431][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:432][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:432][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:432][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:432][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:432][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:436][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:436][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:436][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:436][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:458][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:458][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:464][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:467][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:467][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:467][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:467][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:467][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:467][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:468][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:469][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:470][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:471][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:471][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:471][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:471][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:471][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:471][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:471][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:471][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:472][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:472][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:472][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:472][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:472][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:472][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:472][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:472][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:473][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:473][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:473][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:473][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:473][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:473][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:473][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:474][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:475][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:476][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:477][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:478][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:478][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:478][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:482][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:483][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:483][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:485][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:487][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:503][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:522][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:523][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:523][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:523][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:523][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:526][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:527][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:528][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:528][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:533][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:535][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:536][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:537][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:537][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:540][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:540][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:541][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:541][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:548][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:604][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:604][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:605][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:605][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:605][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:605][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:605][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:609][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:609][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:609][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:609][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:637][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:638][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.27.09:643][949]LogVSAccessor: Warning: Couldn't access module table
+[2020.06.10-16.28.11:201][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.06.10-16.28.12:361][410]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.10-16.28.12:476][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.06.10-16.28.18:034][602]LogSlate: Window 'Escoger clase padre' being destroyed
+[2020.06.10-16.28.23:145][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.28.23:299][119]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.06.10-16.32.34:397][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.06.10-16.32.34:584][422]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap_Auto11A3DCBF54BEF86A615A12E88CBCC4B64.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.06.10-16.32.34:586][422]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.220
+[2020.06.10-16.32.34:586][422]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.220
+[2020.06.10-16.32.34:587][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Bullet/Bullet] ([1] browsable assets)...
+[2020.06.10-16.32.34:587][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Bullet/Bullet]
+[2020.06.10-16.32.34:594][422]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Bullet_Auto1290E7092477B3F8BAEF89CBC32B66EF0.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Bullet/Bullet_Auto1.uasset'
+[2020.06.10-16.32.34:595][422]LogFileHelpers: Auto-saving content packages took 0.009
+[2020.06.10-16.36.15:012][132]BlueprintLog: New page: Compilar Bullet
+[2020.06.10-16.36.15:188][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.06.10-16.36.17:073][232]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.36.17:093][232]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.36.17:099][232]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.36.17:099][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.36.23:385][766]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-16.36.23:391][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.36.23:391][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-16.36.23:391][766]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (10 jun. 2020 20:36:23)
+[2020.06.10-16.36.23:391][766]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.36.23:410][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018925s)
+[2020.06.10-16.36.23:411][766]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.10-16.36.23:411][766]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2020.06.10-16.36.23:412][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020257s)
+[2020.06.10-16.36.23:461][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.06.10-16.36.23:463][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.10-16.36.23:463][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.10-16.36.23:463][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.10-16.36.23:463][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.10-16.36.23:463][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.10-16.36.23:463][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.10-16.36.23:463][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.10-16.36.23:463][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.10-16.36.23:464][766]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.10-16.36.23:464][766]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: Channel Order:
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-16.36.23:491][766]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-16.36.23:503][766]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.36.23:504][766]LogInit: FAudioDevice initialized.
+[2020.06.10-16.36.23:514][766]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.10-16.36.23:516][766]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.10-18.36.23
+[2020.06.10-16.36.23:516][766]LogWorld: Bringing up level for play took: 0.001205
+[2020.06.10-16.36.23:517][766]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.06.10-16.36.23:518][766]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,307
+[2020.06.10-16.36.23:518][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.36.46:560][250]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.36.46:560][250]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.36.46:560][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.36.46:560][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.36.46:560][250]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.36.46:560][250]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.36.46:561][250]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.36.46:561][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.36.46:575][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-16.36.46:575][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.36.46:578][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.36.46:603][250]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.36.46:606][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.36.46:609][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.06.10-16.36.46:660][253]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.06.10-16.36.50:314][554]LogEditorViewport: Clicking on Actor (LMB): Bullet_C (Bullet)
+[2020.06.10-16.36.51:539][664]Cmd: DELETE
+[2020.06.10-16.36.51:539][664]Cmd: ACTOR DELETE
+[2020.06.10-16.36.51:540][664]LogEditorActor: Deleted Actor: Bullet_C
+[2020.06.10-16.36.51:568][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.06.10-16.36.51:570][664]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.06.10-16.36.52:738][766]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.36.53:062][766]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.10-16.39.19:802][926]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.39.19:821][926]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.39.19:822][926]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.39.19:822][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.40.42:237][459]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/EpicGames/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.06.10-16.40.42:239][459]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.06.10-16.40.42:241][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.06.10-16.40.42:243][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.06.10-16.40.42:245][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.06.10-16.40.42:246][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.06.10-16.40.42:247][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.06.10-16.40.42:249][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.06.10-16.40.42:251][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.06.10-16.40.42:252][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.06.10-16.40.42:253][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.06.10-16.40.42:254][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.06.10-16.40.42:255][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.06.10-16.40.42:258][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.06.10-16.40.42:260][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.06.10-16.40.42:262][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.06.10-16.40.42:263][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.06.10-16.40.42:265][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.06.10-16.40.42:266][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.06.10-16.40.42:267][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Fire01.uasset"
+[2020.06.10-16.40.42:268][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.06.10-16.40.42:270][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.06.10-16.40.42:271][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.06.10-16.40.42:273][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Light01.uasset"
+[2020.06.10-16.40.42:274][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.06.10-16.40.42:275][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Light02.uasset"
+[2020.06.10-16.40.42:276][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.06.10-16.40.42:278][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.06.10-16.40.42:279][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.06.10-16.40.42:280][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.06.10-16.40.42:283][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.06.10-16.40.42:289][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.06.10-16.40.42:291][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.06.10-16.40.42:295][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.06.10-16.40.42:297][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.06.10-16.40.42:299][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Steam01.uasset"
+[2020.06.10-16.40.42:301][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.06.10-16.40.42:302][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.06.10-16.40.42:303][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.06.10-16.40.42:304][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.06.10-16.40.42:305][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.06.10-16.40.42:307][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.06.10-16.40.42:308][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.06.10-16.40.42:309][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.06.10-16.40.42:310][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.06.10-16.40.42:311][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.06.10-16.40.42:313][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.06.10-16.40.42:314][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.06.10-16.40.42:315][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.06.10-16.40.42:317][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.06.10-16.40.42:318][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.06.10-16.40.42:319][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.06.10-16.40.42:321][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.06.10-16.40.42:354][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.06.10-16.40.42:356][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.06.10-16.40.42:358][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.06.10-16.40.42:361][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.06.10-16.40.42:363][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.06.10-16.40.42:365][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Maps/StarterMap.umap"
+[2020.06.10-16.40.42:377][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.06.10-16.40.42:379][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.06.10-16.40.42:379][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Basic_Floor.uasset".
+[2020.06.10-16.40.42:381][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.06.10-16.40.42:382][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.06.10-16.40.42:383][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.06.10-16.40.42:385][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.06.10-16.40.42:386][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.06.10-16.40.42:388][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.06.10-16.40.42:390][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.06.10-16.40.42:392][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.06.10-16.40.42:394][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.06.10-16.40.42:396][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.06.10-16.40.42:397][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.06.10-16.40.42:399][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.06.10-16.40.42:400][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.06.10-16.40.42:402][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.06.10-16.40.42:403][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.06.10-16.40.42:405][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.06.10-16.40.42:406][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.06.10-16.40.42:408][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.06.10-16.40.42:409][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.06.10-16.40.42:411][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.06.10-16.40.42:412][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.06.10-16.40.42:414][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.06.10-16.40.42:415][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.06.10-16.40.42:417][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.06.10-16.40.42:418][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.06.10-16.40.42:419][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.06.10-16.40.42:421][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.06.10-16.40.42:424][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.06.10-16.40.42:426][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.06.10-16.40.42:428][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.06.10-16.40.42:429][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.06.10-16.40.42:430][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.06.10-16.40.42:432][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.06.10-16.40.42:434][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.06.10-16.40.42:435][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.06.10-16.40.42:437][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.06.10-16.40.42:438][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.06.10-16.40.42:439][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.06.10-16.40.42:441][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.06.10-16.40.42:443][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.06.10-16.40.42:444][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.06.10-16.40.42:446][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.06.10-16.40.42:447][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.06.10-16.40.42:448][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/P_Fire.uasset".
+[2020.06.10-16.40.42:449][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.06.10-16.40.42:450][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.06.10-16.40.42:452][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.06.10-16.40.42:453][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.06.10-16.40.42:455][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.06.10-16.40.42:458][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.06.10-16.40.42:458][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset".
+[2020.06.10-16.40.42:461][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.06.10-16.40.42:461][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset".
+[2020.06.10-16.40.42:461][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset".
+[2020.06.10-16.40.42:463][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.06.10-16.40.42:464][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset".
+[2020.06.10-16.40.42:465][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.06.10-16.40.42:467][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.06.10-16.40.42:469][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.06.10-16.40.42:470][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.06.10-16.40.42:472][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.06.10-16.40.42:473][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.06.10-16.40.42:475][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Door.uasset"
+[2020.06.10-16.40.42:476][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.06.10-16.40.42:478][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.06.10-16.40.42:479][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.06.10-16.40.42:481][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.06.10-16.40.42:483][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.06.10-16.40.42:485][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.06.10-16.40.42:486][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.06.10-16.40.42:488][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.06.10-16.40.42:489][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.06.10-16.40.42:492][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.06.10-16.40.42:494][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.06.10-16.40.42:496][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.06.10-16.40.42:498][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.06.10-16.40.42:499][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.06.10-16.40.42:501][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.06.10-16.40.42:503][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.06.10-16.40.42:504][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.06.10-16.40.42:506][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.06.10-16.40.42:507][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.06.10-16.40.42:508][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.06.10-16.40.42:510][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.06.10-16.40.42:512][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.06.10-16.40.42:513][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.06.10-16.40.42:514][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.06.10-16.40.42:516][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.06.10-16.40.42:517][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.06.10-16.40.42:518][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.06.10-16.40.42:519][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.06.10-16.40.42:521][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.06.10-16.40.42:522][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.06.10-16.40.42:524][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.06.10-16.40.42:526][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.06.10-16.40.42:528][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.06.10-16.40.42:529][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.06.10-16.40.42:531][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.06.10-16.40.42:532][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.06.10-16.40.42:534][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.06.10-16.40.42:535][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.06.10-16.40.42:536][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.06.10-16.40.42:538][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.06.10-16.40.42:540][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.06.10-16.40.42:541][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.06.10-16.40.42:542][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.06.10-16.40.42:544][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.06.10-16.40.42:550][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.06.10-16.40.42:555][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.06.10-16.40.42:562][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.06.10-16.40.42:567][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.06.10-16.40.42:572][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.06.10-16.40.42:577][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.06.10-16.40.42:583][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.06.10-16.40.42:588][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.06.10-16.40.42:598][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.06.10-16.40.42:603][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.06.10-16.40.42:609][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.06.10-16.40.42:614][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.06.10-16.40.42:620][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.06.10-16.40.42:621][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.06.10-16.40.42:624][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.06.10-16.40.42:626][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.06.10-16.40.42:628][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.06.10-16.40.42:629][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.06.10-16.40.42:631][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.06.10-16.40.42:634][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.06.10-16.40.42:635][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.06.10-16.40.42:641][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.06.10-16.40.42:644][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.06.10-16.40.42:650][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.06.10-16.40.42:653][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.06.10-16.40.42:656][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.06.10-16.40.42:663][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.06.10-16.40.42:668][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.06.10-16.40.42:673][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.06.10-16.40.42:679][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.06.10-16.40.42:685][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.06.10-16.40.42:691][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.06.10-16.40.42:699][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.06.10-16.40.42:703][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.06.10-16.40.42:708][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.06.10-16.40.42:712][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.06.10-16.40.42:718][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.06.10-16.40.42:720][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.06.10-16.40.42:724][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.06.10-16.40.42:727][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.06.10-16.40.42:729][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.06.10-16.40.42:731][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.06.10-16.40.42:734][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.06.10-16.40.42:734][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Fire_SubUV.uasset".
+[2020.06.10-16.40.42:734][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset".
+[2020.06.10-16.40.42:736][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.06.10-16.40.42:738][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.06.10-16.40.42:740][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.06.10-16.40.42:747][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.06.10-16.40.42:753][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.06.10-16.40.42:760][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.06.10-16.40.42:767][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.06.10-16.40.42:775][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.06.10-16.40.42:781][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.06.10-16.40.42:783][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.06.10-16.40.42:786][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.06.10-16.40.42:795][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.06.10-16.40.42:800][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.06.10-16.40.42:806][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.06.10-16.40.42:811][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.06.10-16.40.42:815][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.06.10-16.40.42:821][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.06.10-16.40.42:829][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.06.10-16.40.42:833][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.06.10-16.40.42:838][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.06.10-16.40.42:844][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.06.10-16.40.42:847][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.06.10-16.40.42:852][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.06.10-16.40.42:860][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.06.10-16.40.42:866][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.06.10-16.40.42:872][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.06.10-16.40.42:877][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.06.10-16.40.42:882][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.06.10-16.40.42:888][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.06.10-16.40.42:896][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.06.10-16.40.42:902][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.06.10-16.40.42:904][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.06.10-16.40.42:906][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.06.10-16.40.42:907][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.06.10-16.40.42:907][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Smoke_SubUV.uasset".
+[2020.06.10-16.40.42:907][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset".
+[2020.06.10-16.40.42:909][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.06.10-16.40.42:910][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.06.10-16.40.42:912][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.06.10-16.40.42:913][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.06.10-16.40.42:916][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.06.10-16.40.42:917][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.06.10-16.40.42:919][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.06.10-16.40.42:920][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.06.10-16.40.42:921][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.06.10-16.40.42:923][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.06.10-16.40.42:927][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.06.10-16.40.42:930][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.06.10-16.40.42:930][459]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Water_N.uasset".
+[2020.06.10-16.40.42:934][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.06.10-16.40.42:937][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.06.10-16.40.42:940][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.06.10-16.40.42:944][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.06.10-16.40.42:948][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.06.10-16.40.42:955][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.06.10-16.40.42:960][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.06.10-16.40.42:966][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.06.10-16.40.42:969][459]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.06.10-16.40.42:970][459]LogStaticMesh: Generando la malla estática Floor_400x400...
+[2020.06.10-16.40.42:970][459]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.06.10-16.40.43:067][459]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Floor_400x4004B1E4D914F0B626B9FEF4BB1ACD64A35.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.06.10-16.40.43:093][459]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.06.10-16.40.43:093][459]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.06.10-16.40.51:840][ 61]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.06.10-16.41.29:083][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.41.41:466][859]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.41.41:482][859]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.41.41:483][859]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.41.41:483][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.42.33:259][724]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.06.10-16.42.48:661][ 64]LogSlate: Window 'Escoger clase padre' being destroyed
+[2020.06.10-16.42.49:973][184]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.43.25:760][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.06.10-16.43.25:944][988]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap_Auto27E5AC5F64209FC580734F295224947E2.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.06.10-16.43.25:947][988]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.221
+[2020.06.10-16.43.25:947][988]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.221
+[2020.06.10-16.43.25:947][988]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Bullet/Bullet] ([1] browsable assets)...
+[2020.06.10-16.43.25:947][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Bullet/Bullet]
+[2020.06.10-16.43.25:956][988]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Bullet_Auto2378623E84B7B315405458A80D1E365EE.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Bullet/Bullet_Auto2.uasset'
+[2020.06.10-16.43.25:957][988]LogFileHelpers: Auto-saving content packages took 0.011
+[2020.06.10-16.43.26:393][  9]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.43.26:415][  9]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.43.26:415][  9]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.43.26:415][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.43.34:407][441]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube.uasset to C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/Geometry/Meshes/1M_Cube.uasset
+[2020.06.10-16.43.34:407][441]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube_Chamfer.uasset to C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2020.06.10-16.43.34:408][441]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/CubeMaterial.uasset to C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/Geometry/Meshes/CubeMaterial.uasset
+[2020.06.10-16.43.34:408][441]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/TemplateFloor.uasset to C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/Geometry/Meshes/TemplateFloor.uasset
+[2020.06.10-16.43.34:447][441]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/EpicGames/UE_4.24/FeaturePacks/FP_FirstPersonBP.upack)
+[2020.06.10-16.43.34:466][441]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.06.10-16.43.34:509][441]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/FirstPersonOverview.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/FirstPersonBP/FirstPersonOverview.uasset"
+[2020.06.10-16.43.34:538][441]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset"
+[2020.06.10-16.43.34:560][441]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset"
+[2020.06.10-16.43.34:572][441]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset"
+[2020.06.10-16.43.34:750][441]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" to "C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap"
+[2020.06.10-16.43.34:823][441]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/FirstPersonOverviewA372234D48AA21557C8C93A3708C59CA.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/FirstPersonBP/FirstPersonOverview.uasset'
+[2020.06.10-16.43.34:853][441]AssetCheck: New page: Asset Save: FirstPersonOverview
+[2020.06.10-16.43.34:853][441]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview
+[2020.06.10-16.43.41:294][929]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.06.10-16.43.47:844][500]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.44.14:043][135]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2020.06.10-16.44.30:450][ 81]LogSlate: Window 'FirstPersonProjectileMesh' being destroyed
+[2020.06.10-16.44.30:459][ 81]LogSlate: Window 'FirstPersonProjectileMesh' being destroyed
+[2020.06.10-16.44.30:466][ 81]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.44.30:466][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.44.30:508][ 81]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.44.30:508][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.44.32:562][201]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Meshes/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2020.06.10-16.44.34:306][308]LogSlate: Window 'FirstPersonProjectileMaterial' being destroyed
+[2020.06.10-16.44.34:324][308]LogSlate: Window 'FirstPersonProjectileMaterial' being destroyed
+[2020.06.10-16.44.34:336][308]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.44.34:336][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.44.51:046][302]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2020.06.10-16.44.57:853][718]LogSlate: Window 'FirstPersonProjectileMesh' being destroyed
+[2020.06.10-16.44.57:876][718]LogSlate: Window 'FirstPersonProjectileMesh' being destroyed
+[2020.06.10-16.44.57:881][718]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.44.57:881][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.45.37:249][622]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.48.18:435][949]BlueprintLog: New page: Compilar Bullet
+[2020.06.10-16.48.18:745][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.06.10-16.48.19:912][ 13]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.48.19:929][ 13]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.48.19:935][ 13]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.48.19:935][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.52.20:169][284]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-16.52.20:174][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.52.20:174][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-16.52.20:174][284]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (10 jun. 2020 20:52:20)
+[2020.06.10-16.52.20:174][284]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.52.20:192][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018258s)
+[2020.06.10-16.52.20:193][284]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.10-16.52.20:193][284]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2020.06.10-16.52.20:193][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019388s)
+[2020.06.10-16.52.20:243][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.06.10-16.52.20:246][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.10-16.52.20:246][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.10-16.52.20:246][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.10-16.52.20:246][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.10-16.52.20:246][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.10-16.52.20:246][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.10-16.52.20:246][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.10-16.52.20:246][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.10-16.52.20:246][284]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.10-16.52.20:246][284]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: Channel Order:
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-16.52.20:274][284]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-16.52.20:284][284]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.52.20:286][284]LogInit: FAudioDevice initialized.
+[2020.06.10-16.52.20:296][284]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.10-16.52.20:298][284]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.10-18.52.20
+[2020.06.10-16.52.20:298][284]LogWorld: Bringing up level for play took: 0.001226
+[2020.06.10-16.52.20:298][284]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.06.10-16.52.20:300][284]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,088
+[2020.06.10-16.52.20:300][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.52.26:492][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.52.26:492][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.52.26:492][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.52.26:492][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.52.26:492][959]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.52.26:492][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.52.26:492][959]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.52.26:493][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.52.26:506][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-16.52.26:506][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.52.26:511][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.52.26:533][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.52.26:536][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.52.26:538][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.06.10-16.52.26:601][963]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.06.10-16.52.29:397][231]LogEditorViewport: Clicking on Actor (LMB): Bullet_C (Bullet)
+[2020.06.10-16.52.30:302][314]Cmd: DELETE
+[2020.06.10-16.52.30:302][314]Cmd: ACTOR DELETE
+[2020.06.10-16.52.30:304][314]LogEditorActor: Deleted Actor: Bullet_C
+[2020.06.10-16.52.30:327][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.06.10-16.52.30:329][314]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.06.10-16.52.31:270][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-16.52.46:242][344]BlueprintLog: New page: Compilar Bullet
+[2020.06.10-16.52.46:419][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.06.10-16.52.47:548][420]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.52.47:569][420]LogSlate: Window 'Bullet' being destroyed
+[2020.06.10-16.52.47:572][420]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.52.47:572][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.52.53:278][886]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-16.52.53:283][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.52.53:283][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-16.52.53:283][886]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (10 jun. 2020 20:52:53)
+[2020.06.10-16.52.53:283][886]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.52.53:295][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011694s)
+[2020.06.10-16.52.53:296][886]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.10-16.52.53:296][886]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2020.06.10-16.52.53:296][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013206s)
+[2020.06.10-16.52.53:325][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.06.10-16.52.53:328][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.10-16.52.53:328][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.10-16.52.53:328][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.10-16.52.53:328][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.10-16.52.53:328][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.10-16.52.53:328][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.10-16.52.53:328][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.10-16.52.53:328][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.10-16.52.53:328][886]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.10-16.52.53:328][886]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: Channel Order:
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-16.52.53:354][886]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-16.52.53:366][886]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX 7.1 Audio)
+[2020.06.10-16.52.53:367][886]LogInit: FAudioDevice initialized.
+[2020.06.10-16.52.53:378][886]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.10-16.52.53:380][886]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.10-18.52.53
+[2020.06.10-16.52.53:380][886]LogWorld: Bringing up level for play took: 0.001268
+[2020.06.10-16.52.53:380][886]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.06.10-16.52.53:382][886]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,17
+[2020.06.10-16.52.53:382][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.53.00:640][669]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.53.00:640][669]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.53.00:640][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.53.00:640][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.53.00:640][669]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.10-16.53.00:640][669]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.53.00:640][669]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-16.53.00:640][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.53.00:651][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-16.53.00:651][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.10-16.53.00:655][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-16.53.00:676][669]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-16.53.00:679][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-16.53.00:682][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.06.10-16.53.00:744][673]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.06.10-16.53.02:470][848]LogEditorViewport: Clicking on Actor (LMB): Bullet_C (Bullet)
+[2020.06.10-16.53.03:277][921]Cmd: DELETE
+[2020.06.10-16.53.03:277][921]Cmd: ACTOR DELETE
+[2020.06.10-16.53.03:278][921]LogEditorActor: Deleted Actor: Bullet_C
+[2020.06.10-16.53.03:301][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.06.10-16.53.03:303][921]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.06.10-16.53.40:206][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.10-16.53.40:385][120]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap_Auto37B816FBD411D781D5EDE3AB501C3D24A.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.06.10-16.53.40:388][120]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.204
+[2020.06.10-16.53.40:388][120]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.204
+[2020.06.10-16.53.40:389][120]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Bullet/Bullet] ([1] browsable assets)...
+[2020.06.10-16.53.40:389][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Bullet/Bullet]
+[2020.06.10-16.53.40:398][120]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Bullet_Auto3C2FBDD564309B2BF714F5E9EEAD6DFEB.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Bullet/Bullet_Auto3.uasset'
+[2020.06.10-16.53.40:399][120]LogFileHelpers: Auto-saving content packages took 0.011
+[2020.06.10-16.53.57:293][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.06.10-16.53.57:353][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.06.10-16.53.57:531][524]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap4843337B42CF09ECD8F407971AE99897.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.10-16.53.57:542][524]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.217
+[2020.06.10-16.53.57:549][524]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Bullet63EE4D1A442B42EDAFEBE6B6BA898C31.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Bullet/Bullet.uasset'
+[2020.06.10-16.53.57:584][524]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.10-16.53.57:584][524]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.10-16.53.57:584][524]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
