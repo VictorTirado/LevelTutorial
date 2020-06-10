@@ -2053,3 +2053,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-16.53.57:584][524]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.10-16.53.57:584][524]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.06.10-16.53.57:584][524]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Bullet/Bullet.Bullet
+[2020.06.10-17.00.01:209][147]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.06.10-17.02.33:788][681]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.06.10-17.02.33:809][681]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.06.10-17.02.33:813][681]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-17.02.33:813][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-17.05.06:767][307]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2020.06.10-17.05.06:784][307]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2020.06.10-17.05.09:056][487]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.06.10-17.05.57:477][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.06.10-17.05.57:478][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.080
+[2020.06.10-17.05.57:479][224]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.06.10-17.05.57:493][224]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.06.10-17.05.57:493][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.06.10-17.05.57:526][224]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonCharacter_Auto4A4AD2180446ECFA19314F6A83C86019E.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2020.06.10-17.05.57:528][224]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.06.10-17.27.23:666][896]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.10-17.27.31:572][369]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2020.06.10-17.27.31:580][369]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.06.10-17.27.31:580][369]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finalizar generación de actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.06.10-17.27.31:847][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.06.10-17.28.20:314][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.06.10-17.28.20:492][987]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap_Auto55E1E689F47A257BC663B6CA4F29103B4.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2020.06.10-17.28.20:495][987]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.205
+[2020.06.10-17.28.20:495][987]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2020.06.10-17.28.20:495][987]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.06.10-17.28.20:503][987]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.06.10-17.28.20:503][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.06.10-17.28.20:534][987]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonCharacter_Auto5C2AB823748E32D26737B0A956DD6E5A7.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2020.06.10-17.28.20:535][987]LogFileHelpers: Auto-saving content packages took 0.040
+[2020.06.10-17.59.12:505][996]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.06.10-17.59.12:523][996]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.06.10-17.59.12:527][996]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-17.59.12:527][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-17.59.17:366][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.06.10-17.59.17:432][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.06.10-17.59.17:624][282]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap4DF77CFD4C32FBE1B014C496814CEC54.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.10-17.59.17:637][282]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.231
+[2020.06.10-17.59.17:662][282]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonCharacterF217D6CC4C53C9019DCF049BD0DD48B6.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.06.10-17.59.17:694][282]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.10-17.59.17:694][282]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.10-17.59.17:694][282]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
