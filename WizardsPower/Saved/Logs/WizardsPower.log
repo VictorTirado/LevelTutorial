@@ -2300,3 +2300,152 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.14-12.28.12:143][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
 [2020.06.14-12.28.12:189][661]LogPlayLevel: Display: Destroying online subsystem :Context_50
 [2020.06.14-12.28.16:769][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.06.14-12.28.52:868][730]MapCheck: New page: Revisión del mapa
+[2020.06.14-12.28.52:906][730]Cmd: MAP REBUILD ALLVISIBLE
+[2020.06.14-12.28.52:906][730]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.06.14-12.28.52:978][730]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.06.14-12.28.53:186][730]LightingResults: New page: Diseño de la iluminación - 14 jun. 2020 16:28:53
+[2020.06.14-12.28.53:380][730]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.06.14-12.28.53:512][730]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.06.14-12.28.53:527][730]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.06.14-12.28.54:544][730]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.06.14-12.28.54:545][730]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22240
+[2020.06.14-12.29.01:355][730]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.06.14-12.29.01:355][730]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.06.14-12.29.01:355][730]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.06.14-12.29.01:355][730]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.06.14-12.29.01:355][730]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.06.14-12.29.01:829][730]LogEditorBuildUtils: Build time 0:08
+[2020.06.14-12.29.04:235][796]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2020.06.14-12.29.04:265][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.06.14-12.29.04:265][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.14-12.29.04:265][796]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2020.06.14-12.29.04:277][796]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2020.06.14-12.29.04:290][797]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.14-12.29.04:290][797]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.14-12.29.04:307][797]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 3_level_fountainMat, compiling. 
+[2020.06.14-12.29.04:327][797]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 3_level_fountainMat, compiling. 
+[2020.06.14-12.29.05:194][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.14-12.29.05:194][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.06.14-12.29.05:195][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.06.14-12.29.05:195][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.14-12.29.07:852][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.06.14-12.29.17:418][454]LightingResults: Warning: zzzzzz_Box001 El objeto tiene UVs superpuestas.
+[2020.06.14-12.29.17:418][454]LightingResults: zzzzzz_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.06.14-12.29.19:092][559]LightingResults: Warning: zzzzzz_Box001 El objeto tiene UVs superpuestas.
+[2020.06.14-12.29.19:092][559]LightingResults: zzzzzz_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.06.14-12.29.19:772][601]LightingResults: Warning: 14862_3_basin_fountain_v2 El objeto tiene UVs superpuestas.
+[2020.06.14-12.29.19:772][601]LightingResults: 14862_3_basin_fountain_v2 Lightmap UV are overlapping by 45.1%. Please adjust content - Enable Error Coloring to visualize.
+[2020.06.14-12.29.19:956][612]LightingResults: Warning: zzzzzz_Box001 El objeto tiene UVs superpuestas.
+[2020.06.14-12.29.19:956][612]LightingResults: zzzzzz_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.06.14-12.29.21:281][690]Job is a success!
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport:      Bricks at depth
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport:      Bricks in each level
+[2020.06.14-12.29.21:483][691]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 5 bricks 	 100.0% (Persistent Level)
+[2020.06.14-12.29.24:022][691]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.06.14-12.29.24:022][691]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.06.14-12.29.24:022][691]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.06.14-12.29.24:022][691]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.06.14-12.29.24:022][691]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.06.14-12.29.24:022][691]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.06.14-12.29.24:022][691]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.06.14-12.29.24:022][691]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 512X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 256X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 256X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 256X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 64X32)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 64X64)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 64X64)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 256X128)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2020.06.14-12.29.24:023][691]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2020.06.14-12.29.24:223][691]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X128)
+[2020.06.14-12.29.24:223][691]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X256)
+[2020.06.14-12.29.24:223][691]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X64)
+[2020.06.14-12.29.24:223][691]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 128X64)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X64)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 512X32)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 512X32)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 512X32)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 512X32)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 512X32)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X32)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X32)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 128X32)
+[2020.06.14-12.29.24:224][691]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X32)
+[2020.06.14-12.29.24:435][691]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.06.14-12.29.24:435][691]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.06.14-12.29.24:435][691]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.06.14-12.29.24:435][691]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.06.14-12.29.24:435][691]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.06.14-12.29.24:435][691]Lightmass on DESKTOP-D4FG9F9: 15.5 sec total, 422 ms importing, 251 ms setup, 2.57 sec photons, 12.2 sec processing, 0 ms extra exporting [468/468 mappings]. Threads: 1:25 min total, 48.5 sec processing.
+[2020.06.14-12.29.24:462][691]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 516 meshes in 39 LightmapResourceClusters (13.2 Meshes per cluster).
+[2020.06.14-12.29.24:474][691]LogMaterial: Display: Material /Game/ThirdPersonBP/Assets/3_level_fountainMat.3_level_fountainMat needed to have new flag set bUsedWithStaticLighting !
+[2020.06.14-12.29.24:490][691]LogMaterial: Display: Missing cached shader map for material 3_level_fountainMat, compiling. 
+[2020.06.14-12.29.24:518][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.06.14-12.29.24:518][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.06.14-12.29.24:518][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.06.14-12.29.24:518][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.14-12.29.24:573][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.06.14-12.29.24:646][691]LogStaticLightingSystem: Illumination: 31.4 sec (1.74 sec encoding lightmaps, 329 ms encoding shadowmaps)
+[2020.06.14-12.29.24:646][691]LogStaticLightingSystem: Lightmap texture memory:  28.4 MB (9.8 MB streaming, 18.7 MB non-streaming), 34 textures
+[2020.06.14-12.29.24:646][691]LogStaticLightingSystem: Shadowmap texture memory: 7.4 MB (2.1 MB streaming, 5.3 MB non-streaming), 19 textures
+[2020.06.14-12.29.25:355][691]DumpUnbuiltLightIteractions
+[2020.06.14-12.29.25:355][691]Lights with unbuilt interactions: 0
+[2020.06.14-12.29.25:355][691]
+[2020.06.14-12.29.25:355][691]Primitives with unbuilt interactions: 0
+[2020.06.14-12.29.26:945][692]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.06.14-12.29.26:945][692]MapCheck: New page: ThirdPersonExampleMap - 14 jun. 2020 16:29:26
+[2020.06.14-12.29.26:995][692]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50,126ms to complete.
+[2020.06.14-12.29.28:611][806]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.14-12.29.28:616][806]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.14-12.29.55:732][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.06.14-12.29.55:786][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.14-12.29.56:323][804]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap9A747B5948CA178514A41F95208B545D.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.14-12.29.56:343][804]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.582
+[2020.06.14-12.29.56:976][804]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/ThirdPersonExampleMap_BuiltData334E6357476C0CC3ED918A892D67D248.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.14-12.29.57:010][804]LogSavePackage: Moving 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Saved/3_level_fountainMat7EC836FE4C08F9FA209F7F841B51C048.tmp' to 'C:/Users/USUARIO/Documents/Cuarto Carrera/DiseñoDeNiveles/Practica3/LevelTutorial/WizardsPower/Content/ThirdPersonBP/Assets/3_level_fountainMat.uasset'
+[2020.06.14-12.29.57:028][804]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.14-12.29.57:029][804]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.14-12.29.57:029][804]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.14-12.29.57:029][804]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Assets/3_level_fountainMat.3_level_fountainMat
